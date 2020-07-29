@@ -1,6 +1,6 @@
 const config = {
     url: 'http://api.openweathermap.org/data/2.5/weather',
-    appid: 'da9d6e14bf1eddc0eb773a327de2661c',
+    appid: 'd7e1f393df469ba2f484430740ff4f53',
 };
 
 export default config;
